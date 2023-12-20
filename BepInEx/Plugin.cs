@@ -16,7 +16,7 @@ namespace ImageOverlay
     /// <summary>
     /// BepInEx plugin to substitute for IMod support.
     /// </summary>
-    [BepInPlugin(GUID, "Image Overlay Lite", "1.0.0")]
+    [BepInPlugin(GUID, "Image Overlay Lite", "1.0.1")]
     [HarmonyPatch]
     public class Plugin : BaseUnityPlugin
     {

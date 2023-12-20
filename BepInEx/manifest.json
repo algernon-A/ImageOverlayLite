@@ -1,6 +1,6 @@
 {
   "name": "ImageOverlayLite",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/algernon-A/ImageOverlayLite",
   "description": "Overlay an image (such as a reference map) on top of the map, either in-game or in the editor",
   "dependencies": [
