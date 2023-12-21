@@ -1,5 +1,8 @@
 # Cities Skylines 2 : Image Overlay Lite
-A simple mod to **Overlay an image on the game map**.  Includes the ability to quickly and easily select and change between different images for the overlay.
+A simple mod to **Overlay an image on the game map**.
+
+Includes the ability to quickly and easily select and change between different images for the overlay.  The size, position, rotation, and transparency of the overlay can also be adjusted.
+
 
 Works both in-game and in the editor.
 
@@ -19,6 +22,13 @@ Requested by AmiPolizeiFunk to assist with map creation and real-life city recre
 - Press **Control-PageUp** and **Control-PageDown** to raise or lower the level of the overlay.
 - To rotate the overlay 90 degrees, press **Control-.** (period or ">") or **Control-,** (comma or "<").
 - To move the overlay horizontally, use the **arrow keys** with either **Control** (move 1m at a time) or **Shift** (move 10m at a time).
+
+### Resizing the overlay
+- Press **Control-Minus** and **Control-Equals** to shrink or expand the size of the overlay.
+- For large adjustments you can use the slider in the settings panel (you can use this to easily expand the overlay to cover the entire background terrain).
+
+### Changing the overlay's transparency
+- Use the slider in the settings panel to change the overlay's transparency. 0% (default) is fully opaque and 100% is fully transparent (invisible).
 
 ## Requirements
 - BepInEx 5
