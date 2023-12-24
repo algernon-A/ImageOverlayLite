@@ -11,6 +11,7 @@ Requested by AmiPolizeiFunk to assist with map creation and real-life city recre
 ## Instructions
 ### Selecting the overlay files
 - Place any desired overlays in ".png" format in the "Overlays" directory in your local settings (%LocalAppData%Low\Colossal Order\Cities Skylines II).
+- The images can be any size up to a maximum of 16 384 pixels in either dimension. The images don't *have* to be square, but it's best if they are; if not square, they will be stretched out to a square in-game.
 - In the game's 'Settings' menu there will be a mod setting entry there for 'Image overlay' where you can choose the overlay image file that you want.
 - You can change the overlay file at any time.  Press the 'refresh files' button to rescan the Overlays directory for changes (so you can add or remove overlay files even when in-game).
 
@@ -22,6 +23,8 @@ Requested by AmiPolizeiFunk to assist with map creation and real-life city recre
 - Press **Control-PageUp** and **Control-PageDown** to raise or lower the level of the overlay.
 - To rotate the overlay 90 degrees, press **Control-.** (period or ">") or **Control-,** (comma or "<").
 - To move the overlay horizontally, use the **arrow keys** with either **Control** (move 1m at a time) or **Shift** (move 10m at a time).
+- You can also use the sliders in the settings panel to change the position.
+
 
 ### Resizing the overlay
 - Press **Control-Minus** and **Control-Equals** to shrink or expand the size of the overlay.
@@ -29,7 +32,7 @@ Requested by AmiPolizeiFunk to assist with map creation and real-life city recre
 
 ### Changing the overlay's transparency
 - Use the slider in the settings panel to change the overlay's transparency. 0% (default) is fully opaque and 100% is fully transparent (invisible).
-
+- 
 ## Requirements
 - BepInEx 5
 
