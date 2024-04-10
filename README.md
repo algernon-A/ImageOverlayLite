@@ -3,4 +3,4 @@ With the launch of Paradox Mods and the addition of official modding support to 
 
 Simply put, this is now deprecated, and probably doesn't even work any more.
 
-This mod has been replaced by the full version of 529 Tiles, which is [available now on Paradox Mods](https://mods.paradoxplaza.com/mods/74539/Windows).
+This mod has been replaced by the full version of Imafge Overlay, which is [available now on Paradox Mods](https://mods.paradoxplaza.com/mods/74539/Windows).
